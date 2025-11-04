@@ -4,5 +4,7 @@
   "editor.hover.enabled": false,
   "code-runner.showExecutionMessage": false,
   "code-runner.runInTerminal": true,
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": []
 }
